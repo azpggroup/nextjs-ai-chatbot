@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Google_Drive__search_files",
+      "mcp__Google_Drive__download_file_content",
+      "mcp__post_bridge_-_social_media_scheduler__list_post_results",
+      "mcp__Google_Drive__read_file_content",
+      "mcp__post_bridge_-_social_media_scheduler__get_post",
+      "mcp__Google_Drive__get_file_permissions",
+      "mcp__post_bridge_-_social_media_scheduler__list_social_accounts"
+    ]
+  }
+}
